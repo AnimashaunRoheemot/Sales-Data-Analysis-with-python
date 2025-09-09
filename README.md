@@ -63,48 +63,49 @@ Performed descriptive statistics and group-wise summaries to understand:
 
 Q1. What was the most preferred payment method?  
 - Answer: Credit Card (120 records)  
-- ![Payment Method](images/q1_payment_method.png)  
+- ![Payment Method](https://github.com/AnimashaunRoheemot/Sales-Data-Analysis-with-python/blob/main/Screenshot%20(195).png)  
 
 Q2. Which was the most selling product?  
 - By Quantity → Beverages  
 - By Revenue → Burgers  
-- ![Top Products](images/q2_top_products.png)  
+- ![Top Products](https://github.com/AnimashaunRoheemot/Sales-Data-Analysis-with-python/blob/main/Screenshot%20(196).png)  
 
 Q3. Which City and Manager earned maximum revenue?  
 - City: Lisbon  
 - Manager: Joao Silva  
-- ![City and Manager Revenue](images/q3_city_manager.png)  
+- ![City and Manager Revenue](https://github.com/AnimashaunRoheemot/Sales-Data-Analysis-with-python/blob/main/Screenshot%20(198).png)  
 
 Q4. What was the Average Revenue?  
 - 3029.58 (rounded to 2 decimal places)  
-- ![Average Revenue](images/q4_avg_revenue.png)  
+- ![Average Revenue](https://github.com/AnimashaunRoheemot/Sales-Data-Analysis-with-python/blob/main/Screenshot%20(200).png)  
 
 Q5. What was the Average Revenue for November & December?  
 - November → 2939.05  
 - December → 3102.12  
-- ![Nov Dec Revenue](images/q5_nov_dec_revenue.png)  
+- ![Nov Dec Revenue](https://github.com/AnimashaunRoheemot/Sales-Data-Analysis-with-python/blob/main/Screenshot%20(201).png)  
 
 Q6. What is the Standard Deviation of Revenue and Quantity?  
 - Revenue → 2420.1  
 - Quantity → 214.8  
-- ![Standard Deviation](images/q6_std_dev.png)  
+- ![Standard Deviation](https://github.com/AnimashaunRoheemot/Sales-Data-Analysis-with-python/blob/main/Screenshot%20(207).png)  
 
 Q7. What is the Variance of Revenue and Quantity?  
 - Revenue → 5,857,001.1  
 - Quantity → 46,177.5  
-- ![Variance](images/q7_variance.png)  
+- ![Variance](https://github.com/AnimashaunRoheemot/Sales-Data-Analysis-with-python/blob/main/Screenshot%20(208).png)  
 
 Q8. Was the Revenue Increasing or Decreasing Over Time?  
 - Revenue starts relatively low in early November, with a big spike in mid-November.  
 - It fluctuates afterward but gradually increases through December, ending on an upward trend.  
-- ![Revenue Trend](images/q8_revenue_trend.png)  
+- ![Revenue](https://github.com/AnimashaunRoheemot/Sales-Data-Analysis-with-python/blob/main/Screenshot%20(209).png)
+- ![Revenue](https://github.com/AnimashaunRoheemot/Sales-Data-Analysis-with-python/blob/main/Screenshot%20(213).png)
 
 Q9. What is the Average Quantity Sold & Average Revenue per Product?  
-- ![Avg per Product](images/q9_avg_product.png)  
+- ![Avg per Product](https://github.com/AnimashaunRoheemot/Sales-Data-Analysis-with-python/blob/main/Screenshot%20(211).png)  
 
 Q10. What was the Total Number of Orders?  
 - 254 Orders  
-- ![Total Orders](images/q10_total_orders.png)
+- ![Total Orders](https://github.com/AnimashaunRoheemot/Sales-Data-Analysis-with-python/blob/main/Screenshot%20(212).png)
 
   ## 🛠 Tools & Libraries  
 - Python  
@@ -114,11 +115,10 @@ Q10. What was the Total Number of Orders?
 ---
 
 ## 📂 Project Files  
-- sales_analysis.ipynb → Full Jupyter Notebook with code & outputs  
-- sales_dataset.csv → Dataset (if shareable)  
+- https://github.com/AnimashaunRoheemot/Sales-Data-Analysis-with-python/blob/main/Sales%20dataset%20python%20project.ipynb → Full Jupyter Notebook with code & outputs  
+- sales_dataset.csv → Dataset (https://github.com/AnimashaunRoheemot/Sales-Data-Analysis-with-python/blob/main/Python_SalesData.xlsx)  
 - README.md → Project documentation  
-- requirements.txt → Python dependencies  
-   
+
    ---
    
 ## 📌 Conclusion
@@ -132,5 +132,5 @@ This project highlights how Python can be used to:
 
  ## 👩 Author
  Animashaun Roheemot 
- 
+ 📩gmaail : animashaunroheemot@gmail.com
  🔗linkedln : https://www.linkedin.com/in/animashaun-roheemot
