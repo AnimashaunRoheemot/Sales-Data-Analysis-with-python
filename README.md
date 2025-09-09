@@ -109,28 +109,30 @@ Q10. What was the Total Number of Orders?
 
   ## 🛠 Tools & Libraries  
 - Python  
-- Pandas – for data cleaning, manipulation, and analysis  
+- Pandas – for data cleaning, manipulation, and analysis
+- Seaborns
+- Numpy 
 - Matplotlib – for data visualization  
 
 ---
 
 ## 📂 Project Files  
-- https://github.com/AnimashaunRoheemot/Sales-Data-Analysis-with-python/blob/main/Sales%20dataset%20python%20project.ipynb → Full Jupyter Notebook with code & outputs  
-- sales_dataset.csv → Dataset (https://github.com/AnimashaunRoheemot/Sales-Data-Analysis-with-python/blob/main/Python_SalesData.xlsx)  
+- Sales dataset python project.ipynb → Full Jupyter Notebook with code & outputs  
+- sales_dataset.csv → Dataset (Python_SalesDataset.xlxs)  
 - README.md → Project documentation  
 
    ---
    
 ## 📌 Conclusion
 This project highlights how Python can be used to:
-	•	Clean messy data
-	•	Perform descriptive & statistical analysis
-	•	Answer business questions
-	•	Visualize insights for decision-making
+- 	Clean messy data
+- 	Perform descriptive & statistical analysis
+-  Answer business questions
+- 	Visualize insights for decision-making
 
  ---
 
  ## 👩 Author
- Animashaun Roheemot 
- 📩gmaail : animashaunroheemot@gmail.com
- 🔗linkedln : https://www.linkedin.com/in/animashaun-roheemot
+- Animashaun Roheemot 
+- 📩gmail : animashaunroheemot@gmail.com
+- 🔗linkedln : https://www.linkedin.com/in/animashaun-roheemot
